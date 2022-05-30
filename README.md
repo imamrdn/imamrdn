@@ -1,10 +1,9 @@
-## Hi, I'm Imam 🖐
+## Hi, I'm Riyan 🖐
 
-I like to play on the server side. Apart from that, I like the Linux operating system 🐧. Not only is it more efficient in application development, Linux also has a beautiful appearance 🎨 and is easy to customize ✨. That's what makes me not feel bored while studying ⚡.
+I prefer UI/UX design and Front End Development.✍🏽 Besides that, I also want to study flutter.📱 There is no end to learning knowledge and continuing to seek experience wherever and whenever👌
 
-🌱 I'm currently studying building apps with Laravel <br>
-👯 If you want to discuss and collaborate with me. You can contact at [Telegram](https://t.me/imamrdn) <br>
-💬 You can see about me on [Linkedin](https://www.linkedin.com/in/imamrdn/)
+👯 If you want to discuss and collaborate with me. You can contact at [WhatsApp](https://wa.me/+6288232206647) <br>
+💬 You can see about me on [Linkedin](https://www.linkedin.com/in/riyan-adi-00ba9a202/)
 
 ### Languages and Tools
 
