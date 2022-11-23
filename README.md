@@ -6,7 +6,7 @@ I like to play on the server side. Apart from that, I like the Linux operating s
 👯 If you want to discuss and collaborate with me. You can contact at [Telegram](https://t.me/imamrdn) <br>
 💬 You can see about me on [Linkedin](https://www.linkedin.com/in/imamrdn/)
 
-### Languages and Tools
+<!-- ### Languages and Tools
 
 <code><img height="20" src="https://raw.githubusercontent.com/jmnote/z-icons/master/16x16/bootstrap.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/jmnote/z-icons/master/16x16/php.png"></code>
@@ -14,7 +14,7 @@ I like to play on the server side. Apart from that, I like the Linux operating s
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-
+ -->
 <!-- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/tailwindcss.png"></code> -->
 <!-- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/28b02bbc9ad9f7a503c43775aebeb515dc2da5fc/topics/nextjs/nextjs.png"></code>
